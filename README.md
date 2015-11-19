@@ -1,7 +1,7 @@
 # JTextEditor
 Simple Java Text Editor
 This is a simple text editor written in Java. 
-It just contains just the one class (JTextEditor) which contains all the code. 
+It contains just the one class (JTextEditor) which contains all the code. 
 It allows the user to open, modify and save text files.
 There is also functionality to replace text, change the font size and add a date/time stamp.
 This program is free software: you can redistribute it and/or modifyit under the terms of the 
